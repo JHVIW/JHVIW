@@ -43,16 +43,8 @@ Take a look at some of my GitHub statistics:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JHVIW)](https://git.io/streak-stats)
 
-## Contact Information
-
-I would love to connect with fellow developers and collaborate on exciting projects. Feel free to reach out to me via the following channels:
-
-- Email: [jhviw@example.com](mailto:jhviw@example.com)
-- LinkedIn: [JHVIW](https://www.linkedin.com/in/jhviw)
-- Twitter: [@JHVIW](https://twitter.com/JHVIW)
 
 ## Conclusion
 
 Thank you for visiting my GitHub profile! I hope this README provided a comprehensive summary of my GitHub activity, coding habits, project contributions, and overall presence. As an active member of the GitHub community, I am excited about future collaborations and opportunities for growth. Let's explore the diverse world of coding together!
 
-**Note:** Please note that the information provided in this README is based on currently available data and may be subject to change as I continue to contribute to the GitHub community.
