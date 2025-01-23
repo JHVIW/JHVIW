@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [CS2Locker](https://cs2locker.com/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rickviwaarden/](https://www.linkedin.com/in/rickviwaarden/)
-
 - 📫 How to reach me **saltssecurity@proton.me**
 
 <h3 align="left">Connect with me:</h3>
