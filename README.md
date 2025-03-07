@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rick</h1>
-<h3 align="center">A passionate junior software developer from The Netherlands</h3>
+<h1 align="center">Hi 👋, I'm a passionate software developer.</h1>
 
-- 🔭 I’m currently working on [CS2Locker](https://cs2locker.com/)
+- 🔭 I’m currently working on [Fragrance Recommendendation](http://fragrance-recommendation.vercel.app/)
 
 - 📫 How to reach me **saltssecurity@proton.me**
 
