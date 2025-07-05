@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a passionate software developer.</h1>
 
-- 🔭 I’m currently working on [Fragrance Recommendendation](http://fragrance-recommendation.vercel.app/)
+- 🔭 I’m currently working on [CS2Locker](https://cs2locker.com/)
 
 - 📫 How to reach me **saltssecurity@proton.me**
 
