@@ -1,14 +1,74 @@
-<h1 align="center">Hi 👋, I'm a passionate software developer.</h1>
+<img src="assets/header.svg" alt="Rick van Iwaarden — Software Developer, AI Lead and Cybersecurity. Tilburg, NL." width="100%">
 
-- 🔭 I’m currently working on [CS2Locker](https://cs2locker.com/)
-
-- 📫 How to reach me **rick@saltdevelopment.nl**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://jhviw.github.io"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://cs2locker.com"><b>CS2Locker</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rickviwaarden"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://jhviw.github.io/docs/cv.html"><b>CV</b></a> &nbsp;·&nbsp;
+  <a href="mailto:rick@saltdevelopment.nl"><b>rick@saltdevelopment.nl</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm a software developer and AI Lead based in Tilburg, specialising in **AI, cybersecurity and software for healthcare**.
 
+At [Bodegro](https://www.bodegro.com/) I work full-time on LabTrain, a laboratory information system for the healthcare sector, while leading the responsible introduction of AI across the organisation — running pilots, building LLM tooling, and shaping governance with security and privacy as hard requirements. On the side I build and run [CS2Locker](https://cs2locker.com), a production platform with live market data and thousands of daily visitors.
 
+<br>
+
+### Now
+
+| Since | Role | Focus |
+|---|---|---|
+| 2024 | **Software Developer & AI Lead** · [Bodegro](https://www.bodegro.com/) | LabTrain LIS in C#/.NET, ASP.NET and Oracle PL/SQL with HL7/FHIR integrations; AI pilots, LLM tooling and AI governance |
+| 2025 | **Founder & Lead Developer** · [CS2Locker](https://cs2locker.com) | A production platform with live data from 20+ marketplaces |
+| 2025 | **Owner** · Salt Development | Web applications and digital products |
+
+<br>
+
+### CS2Locker
+
+A production platform for the CS2 skin market — built and operated end-to-end, from market ingestion to edge delivery.
+
+<img src="assets/cs2locker.svg" alt="CS2Locker at a glance: about 5K visitors a day, 20+ market integrations, about 50K catalog items and 260+ API endpoints. Data flows from 20+ marketplaces through NDJSON ingest into PostgreSQL, is rendered by Nuxt 3 SSR and served from the Cloudflare edge." width="100%">
+
+<details>
+<summary><b>Architecture</b></summary>
+<br>
+
+| Layer | Details |
+|---|---|
+| **Frontend** | Nuxt 3 SSR — 185 Vue components, 58 composables, 34 pages (EN + RU i18n) |
+| **Data** | PostgreSQL via PgBouncer, dynamic pool sizing, prepared statements, `DISTINCT ON` optimisation |
+| **Integrations** | Steam, CSFloat, Buff163, DMarket, Skinport, Waxpeer and more via NDJSON streaming with exponential backoff |
+| **Real-time** | Live deals over Server-Sent Events, web-push (VAPID / RFC 8030), 3D skin viewer in Three.js |
+| **Security** | Steam OpenID 2.0, Stripe webhooks (HMAC-SHA256), signed httpOnly sessions, role-based tiers |
+| **Operations** | Multi-tier caching (in-memory, Nitro ISR, Cloudflare edge), automated CDN purge, hourly cron pipelines |
+
+</details>
+
+<br>
+
+### Research & tools
+
+| Project | Type | About |
+|---|---|---|
+| [**OSINT & Phishing Awareness**](https://jhviw.github.io/osint-phishing-awareness/) | Research | An OSINT investigation combined with a phishing awareness campaign, from methodology to recommendations (NL). |
+| [**Unmasking the Cheats**](https://jhviw.github.io/research/cve_research.html) | Article | Counter-Strike 2 vulnerabilities (CVE-2021-30481), how wallhacks work, and how to mitigate them. |
+| [**OV Vertrektijden**](https://jhviw.github.io/ov-vertrektijden/) | Web app | Live Dutch public-transport departure board for trains and bus stops. |
+| [**Bushalte API**](https://jhviw.github.io/bushalte-api/) | Tool | Client-side search over a dataset of Dutch bus stops. |
+| [**Minecraft Palette Generator**](https://jhviw.github.io/MinecraftSites/ColorPaletteGenerator.html) | Tool | Block colour-palette and pattern designer for Minecraft builders. |
+
+<br>
+
+### Stack
+
+| Area | Tools & practices |
+|---|---|
+| **AI & automation** | Python · LLM tooling · Prompt engineering · AI governance |
+| **Backend** | C# / .NET · ASP.NET Web API · Node.js · TypeScript · PostgreSQL · Oracle PL/SQL · Docker · CI/CD |
+| **Frontend** | Vue 3 / Nuxt · React · Tailwind · Razor / Blazor · Three.js |
+| **Security** | Secure coding · OWASP Top 10 · Pentesting · CTFs · OSINT · Responsible disclosure |
+| **Healthcare & integration** | NEN 7510 / 7513 · HL7 / FHIR · OAuth · Stripe · Cloudflare · SSE / WebSockets |
+
+<br>
+
+<sub>HBO-ICT Software Engineering, specialisation Cybersecurity — Fontys, Tilburg (2022–2026) &nbsp;·&nbsp; Dutch · English (C1) · German · French (B1)</sub>
