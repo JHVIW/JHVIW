@@ -1,5 +1,3 @@
-<img src="assets/header.svg" alt="Rick van Iwaarden — Software Developer, AI Lead and Cybersecurity. Tilburg, NL." width="100%">
-
 <p>
   <a href="https://jhviw.github.io"><b>Website</b></a> &nbsp;·&nbsp;
   <a href="https://cs2locker.com"><b>CS2Locker</b></a> &nbsp;·&nbsp;
