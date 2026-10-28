@@ -8,7 +8,7 @@
   <a href="mailto:rick@saltdevelopment.nl"><b>rick@saltdevelopment.nl</b></a>
 </p>
 
-I'm a software developer and AI Lead based in Tilburg, specialising in **AI, cybersecurity and software for healthcare**.
+I'm a software developer and AI Lead specialising in **AI, cybersecurity and software for healthcare**.
 
 At [Bodegro](https://www.bodegro.com/) I work full-time on LabTrain, a laboratory information system for the healthcare sector, while leading the responsible introduction of AI across the organisation — running pilots, building LLM tooling, and shaping governance with security and privacy as hard requirements. On the side I build and run [CS2Locker](https://cs2locker.com), a production platform with live market data and thousands of daily visitors.
 
